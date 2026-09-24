@@ -24,10 +24,8 @@ Data Sources
 The dashboard is powered by:
 Sales Transactions Database
 Product Catalogue
-Store Details (if multi-location)
+Store Details
 
-Contact
-For queries, feedback, or access issues, please contact [Dashboard Administrator or Data Team Contact].
 
 ---
 Use this dashboard to stay informed and make smarter decisions for the hardware shop’s growth.
