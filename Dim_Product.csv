@@ -1,0 +1,51 @@
+﻿ProductID,ProductCode,ProductName,Category,Subcategory,Brand,ListPrice,BaseUnitCost,LaunchDate,Status
+1001,PRD-1001,Laptop Pro 15,Technology,Computers,NovaTech,1299.00,987.24,2024-09-01,Active
+1002,PRD-1002,Laptop Air 13,Technology,Computers,NovaTech,999.00,749.25,2024-09-01,Active
+1003,PRD-1003,Business Laptop 14,Technology,Computers,Apex,849.00,628.26,2024-05-01,Active
+1004,PRD-1004,Workstation 16,Technology,Computers,Apex,1799.00,1403.22,2024-11-01,Active
+1005,PRD-1005,Monitor 27 QHD,Technology,Displays,ViewMax,329.00,223.72,2024-03-01,Active
+1006,PRD-1006,Monitor 24 FHD,Technology,Displays,ViewMax,189.00,124.74,2023-08-01,Active
+1007,PRD-1007,Monitor 34 UltraWide,Technology,Displays,ViewMax,549.00,384.30,2024-10-01,Active
+1008,PRD-1008,Tablet 11,Technology,Mobile Devices,NovaTech,599.00,437.27,2024-06-01,Active
+1009,PRD-1009,Smartphone X,Technology,Mobile Devices,NovaTech,899.00,692.23,2024-09-01,Active
+1010,PRD-1010,Mini PC i5,Technology,Computers,Apex,649.00,467.28,2024-04-01,Active
+1011,PRD-1011,Desktop Pro i7,Technology,Computers,Apex,1099.00,813.26,2024-02-01,Active
+1012,PRD-1012,Docking Station Pro,Technology,Docks & Peripherals,LinkCore,219.00,133.59,2024-01-01,Active
+1013,PRD-1013,Standing Desk,Furniture,Desks & Tables,WorkForm,629.00,434.01,2024-01-01,Active
+1014,PRD-1014,Executive Desk,Furniture,Desks & Tables,WorkForm,799.00,567.29,2023-07-01,Active
+1015,PRD-1015,Office Chair Ergo,Furniture,Seating,SeatLab,429.00,287.43,2024-02-01,Active
+1016,PRD-1016,Office Chair Basic,Furniture,Seating,SeatLab,219.00,137.97,2023-05-01,Active
+1017,PRD-1017,Conference Table,Furniture,Desks & Tables,WorkForm,949.00,683.28,2023-09-01,Active
+1018,PRD-1018,Bookshelf 5-Tier,Furniture,Storage,SpaceCraft,179.00,110.98,2023-04-01,Active
+1019,PRD-1019,Mobile Pedestal,Furniture,Storage,SpaceCraft,149.00,90.89,2024-01-01,Active
+1020,PRD-1020,Storage Cabinet,Furniture,Storage,SpaceCraft,329.00,213.85,2023-10-01,Active
+1021,PRD-1021,Reception Desk,Furniture,Desks & Tables,WorkForm,1099.00,802.27,2024-03-01,Active
+1022,PRD-1022,Meeting Chair,Furniture,Seating,SeatLab,159.00,95.40,2023-11-01,Active
+1023,PRD-1023,Desk Divider,Furniture,Desks & Tables,SpaceCraft,129.00,74.82,2024-06-01,Active
+1024,PRD-1024,Monitor Arm,Furniture,Workspace Accessories,WorkForm,119.00,66.64,2024-04-01,Active
+1025,PRD-1025,Copy Paper A4 5-Pack,Office Supplies,Paper & Shipping,PaperWorks,34.00,18.70,2023-01-01,Active
+1026,PRD-1026,Premium Notebook 5-Pack,Office Supplies,Paper & Shipping,PaperWorks,27.00,14.04,2023-01-01,Active
+1027,PRD-1027,Black Toner Cartridge,Office Supplies,Printing,PrintCore,89.00,56.96,2023-01-01,Active
+1028,PRD-1028,Color Toner Set,Office Supplies,Printing,PrintCore,249.00,169.32,2023-01-01,Active
+1029,PRD-1029,Ink Cartridge Multipack,Office Supplies,Printing,PrintCore,74.00,45.14,2023-01-01,Active
+1030,PRD-1030,Desk Organizer,Office Supplies,Office Essentials,OfficeMate,29.00,14.50,2023-01-01,Active
+1031,PRD-1031,Document Shredder,Office Supplies,Office Essentials,OfficeMate,139.00,86.18,2024-03-01,Active
+1032,PRD-1032,Label Printer,Office Supplies,Printing,PrintCore,119.00,70.21,2024-02-01,Active
+1033,PRD-1033,Thermal Labels 12-Pack,Office Supplies,Paper & Shipping,PrintCore,39.00,19.89,2023-01-01,Active
+1034,PRD-1034,Whiteboard 90x120,Office Supplies,Office Essentials,OfficeMate,159.00,95.40,2023-01-01,Active
+1035,PRD-1035,Marker Set 24,Office Supplies,Office Essentials,OfficeMate,22.00,10.56,2023-01-01,Active
+1036,PRD-1036,Shipping Labels 1000,Office Supplies,Paper & Shipping,PaperWorks,31.00,15.50,2023-01-01,Active
+1037,PRD-1037,Archive Box 10-Pack,Office Supplies,Paper & Shipping,PaperWorks,42.00,22.26,2023-01-01,Active
+1038,PRD-1038,Wireless Mouse,Accessories,Input Devices,LinkCore,49.00,24.01,2024-01-01,Active
+1039,PRD-1039,Keyboard Pro,Accessories,Input Devices,LinkCore,89.00,48.06,2024-02-01,Active
+1040,PRD-1040,USB-C Hub 8-in-1,Accessories,Connectivity,LinkCore,79.00,41.08,2024-03-01,Active
+1041,PRD-1041,Webcam 1080p,Accessories,Audio & Video,LinkCore,69.00,34.50,2024-01-01,Active
+1042,PRD-1042,Noise-Canceling Headset,Accessories,Audio & Video,SoundPeak,149.00,86.42,2024-04-01,Active
+1043,PRD-1043,Laptop Stand,Accessories,Mobile & Storage,WorkForm,59.00,27.73,2024-01-01,Active
+1044,PRD-1044,USB-C Cable 2m,Accessories,Connectivity,LinkCore,19.00,7.98,2023-01-01,Active
+1045,PRD-1045,Wireless Presenter,Accessories,Input Devices,LinkCore,39.00,17.94,2023-09-01,Active
+1046,PRD-1046,Portable SSD 1TB,Accessories,Mobile & Storage,Apex,129.00,78.69,2024-05-01,Active
+1047,PRD-1047,Power Bank 20K,Accessories,Mobile & Storage,NovaTech,79.00,44.24,2024-06-01,Active
+1048,PRD-1048,Surge Protector,Accessories,Connectivity,LinkCore,34.00,15.30,2023-01-01,Active
+1049,PRD-1049,Bluetooth Speaker,Accessories,Audio & Video,SoundPeak,99.00,53.46,2024-05-01,Active
+1050,PRD-1050,HDMI Cable 2m,Accessories,Connectivity,LinkCore,17.00,6.80,2023-01-01,Active
